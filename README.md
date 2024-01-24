@@ -1,16 +1,11 @@
-### Hi there 👋 I'm new to this. Please wait for updates
+# Welcome!
 
-<!--
-**Pam-from-Likha/Pam-from-Likha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is [Pam](https://www.linkedin.com/in/pamverceles/) and I work as a recruiter at [Likha Careers](https://likhacareers.com/).
+I created this as a general hub of open projects I am currently recruiting for and as practice for Github. 
 
-Here are some ideas to get you started:
+All open projects are listed below. I will do my best to update them every now and then.
 
-- 🔭 I’m currently working on Recruiting
-- 🌱 I’m currently learning Github
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: LinkedIn
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Owns four cats
--->
+ # One-time projects
+
+ [Audio Data Collector - Dyula](https://likhacareers.recruitee.com/o/dyula-speaking-audio-data-collector)
+ [Audio Data Colelctor - Hungarian](https://likhacareers.recruitee.com/o/hungarian-speaking-audio-data-collector)
