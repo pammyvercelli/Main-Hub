@@ -10,4 +10,7 @@ All open projects are listed below. I will do my best to update them every now a
  - [Audio Data Collector - Dyula](https://likhacareers.recruitee.com/o/dyula-speaking-audio-data-collector)
  - [Audio Data Colelctor - Hungarian](https://likhacareers.recruitee.com/o/hungarian-speaking-audio-data-collector)
  - [In-car Audio Data Collector - English](https://likhacareers.recruitee.com/o/english-speaking-in-car-audio-data-collection)
+
+## Long-term projects
+ - [Data Entry Clerk - Lao/Laotian](https://likhacareers.recruitee.com/o/lao-laotian-data-entry-clerk-transcriber)
  
