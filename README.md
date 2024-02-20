@@ -10,8 +10,11 @@ All open projects are listed below. I will do my best to update them every now a
  - [Audio Data Collector - Dyula](https://likhacareers.recruitee.com/o/dyula-speaking-audio-data-collector)
  - [Audio Data Collector - Hungarian](https://likhacareers.recruitee.com/o/hungarian-speaking-audio-data-collector)
  - [Audio Data Collector - French (Canada)](https://likhacareers.recruitee.com/o/french-canadian-audio-data-collector)
- - 
-
+ - [Content Evaluator - Italian](https://likhacareers.recruitee.com/o/italian-content-evaluator)
+ - [Content Evaluator - Korean](https://likhacareers.recruitee.com/o/korean-content-evaluator}
+ - [Content Evaluator - Japanese](https://likhacareers.recruitee.com/o/japanese-content-evaluator)
+ - [Content Evaluator - French (France)](https://likhacareers.recruitee.com/o/french-france-content-evaluator)
+   
 ## Long-term projects
  - [Data Entry Clerk - Lao/Laotian](https://likhacareers.recruitee.com/o/lao-laotian-data-entry-clerk-transcriber)
  
