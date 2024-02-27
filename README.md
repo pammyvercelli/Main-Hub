@@ -14,6 +14,7 @@ All open projects are listed below. I will do my best to update them every now a
  - [Content Evaluator - Korean](https://likhacareers.recruitee.com/o/korean-content-evaluator)
  - [Content Evaluator - Japanese](https://likhacareers.recruitee.com/o/japanese-content-evaluator)
  - [Content Evaluator - French (France)](https://likhacareers.recruitee.com/o/french-france-content-evaluator)
+ - [Spanish Speaking Children's Language Recording](https://likhacareers.recruitee.com/o/spanish-speaking-children-language-recording)
    
 ## Long-term projects
  - [Data Entry Clerk - Lao/Laotian](https://likhacareers.recruitee.com/o/lao-laotian-data-entry-clerk-transcriber)
