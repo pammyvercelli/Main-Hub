@@ -16,11 +16,7 @@ All open projects are listed below. I will do my best to update them every now a
  - [Spanish Speaking Children's Language Recording](https://likhacareers.recruitee.com/o/spanish-speaking-children-language-recording)
    
 ## Long-term projects - Remote
- - [Content Evaluator - Italian](https://likhacareers.recruitee.com/o/italian-content-evaluator)
- - [Content Evaluator - Korean](https://likhacareers.recruitee.com/o/korean-content-evaluator)
- - [Content Evaluator - Japanese](https://likhacareers.recruitee.com/o/japanese-content-evaluator)
- - [Content Evaluator - French (France)](https://likhacareers.recruitee.com/o/french-france-content-evaluator)
- - [Content Evaluator - Thai](https://likhacareers.recruitee.com/o/thai-content-evaluator)
-
+ - [US-based English Speech Evaluator](https://likhacareers.recruitee.com/o/english-us-speech-evaluator)
 ## Onsite projects
- - [Data Entry Clerk - Lao/Laotian](https://likhacareers.recruitee.com/o/lao-laotian-data-entry-clerk-transcriber)
+ - [Mississauga - Lao/Laotian Data Entry CLerk](https://likhacareers.recruitee.com/o/lao-laotian-data-entry-clerk-transcriber)
+ - [Mississauga - Australian English Data Entry Clerk](https://likhacareers.recruitee.com/o/australian-english-data-entry-clerk)
