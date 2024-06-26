@@ -7,7 +7,7 @@ All open positions are listed below. I will do my best to update them every now 
 
  ## Marketing and PR roles
 
- - [Account Executive]((https://likhacareers.recruitee.com/o/account-executive))
+ - [Account Executive](https://likhacareers.recruitee.com/o/account-executive)
  - [Brand Marketing Manager](https://likhacareers.recruitee.com/o/marketing-manager-makati-city)
  - [Marketing Director for Government Bidding](https://likhacareers.recruitee.com/o/marketing-director-government-bidding)
  - [Marketing Director for Advertising](https://likhacareers.recruitee.com/o/marketing-director-advertising)
