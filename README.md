@@ -1,22 +1,36 @@
 # Welcome!
 
 Hello! My name is [Pam](https://www.linkedin.com/in/pamverceles/) and I work as a  global recruiter at [Likha Careers](https://likhacareers.com/).
-I created this as a general hub of open projects I am currently recruiting for and as practice for Github. 
+I created this as a general hub of open positions I am currently recruiting for and as practice for Github. 
 
-All open projects are listed below. I will do my best to update them every now and then.
+All open positions are listed below. I will do my best to update them every now and then.
 
- ## One-time projects - Remote
+ ## Marketing and PR roles
 
- - [Audio Data Collector - Dyula](https://likhacareers.recruitee.com/o/dyula-speaking-audio-data-collector)
- - [Audio Data Collector - Greek](https://likhacareers.recruitee.com/o/greek-audio-data-collection)
- - [Audio Data Collector - Czech](https://likhacareers.recruitee.com/o/czech-audio-data-collector)
- - [Audio Data Collector - Finnish](https://likhacareers.recruitee.com/o/finnish-audio-data-collector)
- - [Audio Data Collector - Russian](https://likhacareers.recruitee.com/o/russian-audio-data-collection)
- - [Audio Data Collector - Hebrew](https://likhacareers.recruitee.com/o/hebrew-audio-data-collector)
- - [Spanish Speaking Children's Language Recording](https://likhacareers.recruitee.com/o/spanish-speaking-children-language-recording)
+ - [Account Executive]((https://likhacareers.recruitee.com/o/account-executive))
+ - [Brand Marketing Manager](https://likhacareers.recruitee.com/o/marketing-manager-makati-city)
+ - [Marketing Director for Government Bidding](https://likhacareers.recruitee.com/o/marketing-director-government-bidding)
+ - [Marketing Director for Advertising](https://likhacareers.recruitee.com/o/marketing-director-advertising)
+ - [Marketing Manager for Advertising](https://likhacareers.recruitee.com/o/marketing-manager-advertising)
+ - [Group Marketing Assistant](https://likhacareers.recruitee.com/o/group-marketing-assistant)
+ - [Marketing Officer](https://likhacareers.recruitee.com/o/marketing-officer)
+ - [Marketing Supervisor](https://likhacareers.recruitee.com/o/marketing-supervisor)
    
-## Long-term projects - Remote
- - [US-based English Speech Evaluator](https://likhacareers.recruitee.com/o/english-us-speech-evaluator)
-## Onsite projects
- - [Mississauga - Lao/Laotian Data Entry CLerk](https://likhacareers.recruitee.com/o/lao-laotian-data-entry-clerk-transcriber)
- - [Mississauga - Australian English Data Entry Clerk](https://likhacareers.recruitee.com/o/australian-english-data-entry-clerk)
+## Sales
+ - [Territory Development Supervisor](https://likhacareers.recruitee.com/o/key-accounts-supervisor)
+ - [Banking Sales Officer](https://likhacareers.recruitee.com/o/banking-sales-officer)
+ - [Sales Engineer](https://likhacareers.recruitee.com/o/sales-engineer-power-marketing)
+ - [Assistant Sales Supervisor](https://likhacareers.recruitee.com/o/assistant-sales-supervisor)
+ - [Head of Sales](https://likhacareers.recruitee.com/o/head-of-sales)
+ - [Account Specialist](https://likhacareers.recruitee.com/o/account-specialist)
+ - [Trade Marketing Officer](https://likhacareers.recruitee.com/o/trade-marketing-officer)
+ - [Sales Assistant](https://likhacareers.recruitee.com/o/sales-assistant)
+ - [Donor Relationship Officer](https://likhacareers.recruitee.com/o/donor-relationship-officer)
+ - [Fund Development Specialist](https://likhacareers.recruitee.com/o/fund-development-specialist)
+ - [Government Partnership Officer](https://likhacareers.recruitee.com/o/government-partnership-officer)
+ - [Individual Fund Development Officer](https://likhacareers.recruitee.com/o/individual-fund-development-supervisor)
+ - [Partnership Acquisition Officer](https://likhacareers.recruitee.com/o/partnership-acquisition-officer)
+ - [Partnership Loyalty Officer](https://likhacareers.recruitee.com/o/partnership-loyalty-officer)
+ - [Partnership Officer](https://likhacareers.recruitee.com/o/partnership-officer)
+ - [Sales Tax Representative - WFH](https://likhacareers.recruitee.com/o/sales-tax-representative)
+ - [Jr. Business Development Executive](https://likhacareers.recruitee.com/o/jr-business-development-executive)
